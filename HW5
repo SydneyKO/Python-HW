@@ -1,0 +1,9 @@
+https://repl.it/@SydneyOsei/SlategrayPopularSubweb
+
+
+color=input("enter a color")
+plural_noun=input("enter a plural noun")
+celebrity=input("enter a celebrity:")
+print("roses are"+color
+print("plural_noan+"are blue")
+print("i love",celebrity)
