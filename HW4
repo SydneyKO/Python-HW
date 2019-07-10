@@ -1,1 +1,7 @@
 https://repl.it/@SydneyOsei/SlategrayPopularSubweb
+
+
+Totalpoints=int(input("enter Total points:"))
+pointsscored=int(input("enter points scored"))
+percentage=pointsscored/Totalpoints
+print(percentage
