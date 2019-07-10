@@ -1,0 +1,9 @@
+https://repl.it/@SydneyOsei/SlategrayPopularSubweb
+
+
+moneypocket=100
+bill=40
+tip=bill*.10
+totalbill=bill+tip
+moneyafterbill=moneyinpocket-totalbill
+print(moneyafterbill)
