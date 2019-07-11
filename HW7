@@ -1,0 +1,8 @@
+https://repl.it/@SydneyOsei/MerryOverjoyedDevice
+def main():
+  marks =int(input("Enter amout of total marks:"))
+  if marks >50:
+    print("Student passes the exam")
+  elif marks <50: 
+      print("Student Failed the exam")
+main()
