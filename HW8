@@ -1,0 +1,13 @@
+https://repl.it/@SydneyOsei/MerryOverjoyedDevice
+
+def main()
+  totalSales=float(input("please entertotal sales:")) 
+  if totalSales>=1000
+  iphonesSold=int(input("Enter the number of iphones sold:")
+  if iphones >=3:
+    bonus=totalDales*.03
+  else:
+    bonus=totalSales*.o2
+    print("your bonus is $",bonus)
+  else print("sorry you do not get a bonus this pay period")
+main()
